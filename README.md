@@ -1,7 +1,3 @@
 # Stillborn
-<<<<<<< HEAD
-Hi! :)
-=======
+All updates, wip, and relaying messages to anyone continuing your work should be posted here.
 
-vnknwn: hello :D
->>>>>>> 4fa92a39f3b671aa78c11355953733f21c1f8224
