@@ -1,0 +1,23 @@
+# Unreal Engine generated folders — do not commit these
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Build/cache files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Compiled object files
+*.obj
+
+# Precompiled headers
+*.pch
+
+# Visual Studio cache/options
+.vscode/
